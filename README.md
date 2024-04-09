@@ -1,11 +1,11 @@
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi , I'm Nipun Dilshan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></summary>
+    <summary><h1 style="display: inline-block">Hi , I'm SHAMAL EKANAYAKA <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></summary>
   </ul>
 </div>
 
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=1200&height=50&lines=Mobile+App+Developer👨‍💻,+Video+Editor📽️,+Graphic+Designer🖼️,+Community+Mannager🧑‍💼"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=1200&height=50&lines=Mobile+App+Developer👨‍💻,+Video+Editor📽️,+Graphic+Designer🖼️,+Web+Developer🧑‍💼"></a>
 
 
 
