@@ -35,8 +35,8 @@
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/shamalekanayaka">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-	<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+	<a style="margin-left: 10px;" target="_blank" href="https://web.facebook.com/shamal.vimu">
+				<img src="https://img.icons8.com/doodle/1x/facebook--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/mrnipundilshan">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 	<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/nipundilsh4n">
