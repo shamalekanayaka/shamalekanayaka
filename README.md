@@ -27,7 +27,7 @@
 <br/>
 
 
-# 📊 GitHub Stats:
+### :fire: My Stats :
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shamalekanayaka&" alt="shamalekanayaka=dark&hide border=false" /></p>
 
@@ -35,7 +35,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shamalekanayaka&show_icons=true&locale=en" alt="shamalekanayaka" /></p>
 
-<h3 align="left"> ## 💰 You can help me by Donating:</h3>
+<h3 align="left"> 💰 You can help me by Donating:</h3>
 <p><a href="https://www.buymeacoffee.com/shamalx"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shamalx" /></a></p><br><br>
 
 
@@ -79,6 +79,6 @@ Web Developer 👨‍💻 | Mobile App Developer 👨‍💻 | Video Editor 📽
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mrnipundilshan&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shamalekanayaka&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrnipundilshan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamalekanayaka&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
