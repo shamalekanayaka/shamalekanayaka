@@ -36,7 +36,7 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shamalekanayaka&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamalekanayaka&layout=compact&theme=vision-friendly-dark)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamalekanayaka&layout=compact&theme=vision-friendly-dark)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shamalekanayaka&show_icons=true&locale=en" alt="shamalekanayaka" /></p>
 
 <h3 align="left"> 💰 You can help me by Donating:</h3>
