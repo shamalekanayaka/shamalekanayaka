@@ -29,7 +29,7 @@
 
 # 📊 GitHub Stats:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shamalekanayaka&" alt="shamalekanayaka" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shamalekanayaka&" alt="shamalekanayaka=dark&hide border=false" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamalekanayaka" alt="shamalekanayaka" /></a> </p>
 
