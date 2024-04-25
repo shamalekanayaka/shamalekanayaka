@@ -35,6 +35,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shamalekanayaka&show_icons=true&locale=en" alt="shamalekanayaka" /></p>
 
+<h3 align="left"> ## 💰 You can help me by Donating:</h3>
+<p><a href="https://www.buymeacoffee.com/shamalx"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shamalx" /></a></p><br><br>
+
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
