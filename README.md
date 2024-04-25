@@ -26,11 +26,10 @@
 - 📫 How to reach me **shamal65610@gmail.com**
 <br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shamalekanayaka&label=Profile%20views&color=0e75b6&style=flat" alt="shamalekanayaka" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamalekanayaka" alt="shamalekanayaka" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/shamalekanayaka" target="blank"><img src="https://img.shields.io/twitter/follow/shamalekanayaka?logo=twitter&style=for-the-badge" alt="shamalekanayaka" /></a> </p>
 
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
