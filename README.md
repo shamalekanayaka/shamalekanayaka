@@ -34,7 +34,6 @@
 
 
 ### :fire: My Stats :
-![](https://github-readme-streak-stats.herokuapp.com/?user=shamalekanayakatheme=react&hide_border=true)<br/>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shamalekanayaka&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamalekanayaka&layout=compact&theme=vision-friendly-dark)
